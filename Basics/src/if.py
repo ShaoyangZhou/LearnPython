@@ -1,7 +1,7 @@
 '''
 Created on Mar 31, 2017
 
-@author: Shaoyang Zhou
+@author: ShaoyangZhou
 '''
 a = int( input("Please input a integer") )
 
